@@ -161,10 +161,10 @@ Group Name
 * นับจำนวนสี
 * จัดกลุ่มสีใช้ Centroid เป็นตัวแทนสี
 
-### [Miniexam]
+### [Miniexam](https://github.com/Chanunchida-May/DWDM21/blob/main/MiniExam.ipynb)
 
 ### [Projectfinal]
 
-*สไลด์Projectfinal 
+### [สไลด์Projectfinal] 
 
 
