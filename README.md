@@ -79,7 +79,7 @@ Group Name
       
       วาดรูปต้นไม้/วาดรูปบ้าน
       
-  ### [Data102](https://github.com/Chanunchida-May/DWDM21/blob/main/Data102(Chapter2).ipynb)
+      ### [Data102](https://github.com/Chanunchida-May/DWDM21/blob/main/Data102(Chapter2).ipynb)
       
   * Boxplot
       
@@ -95,7 +95,7 @@ Group Name
 * Histogram
 * Quiz กลุ่ม III วาดกราฟที่มี marker 
 
- ### [Distance Numpy](https://github.com/Chanunchida-May/DWDM21/blob/main/Distance_Numpy.ipynb)
+     ### [Distance Numpy](https://github.com/Chanunchida-May/DWDM21/blob/main/Distance_Numpy.ipynb)
  
  * Numpy Array
  * matrix transpose
@@ -138,14 +138,14 @@ Group Name
 * Advanced Tree
 * HW
 
- ### [Classification - Evaluation](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+   ### [Classification - Evaluation](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
 
 * Load data
 * เเบ่ง DATA 
 * สร้าง Model ทำนาย
 * Evaluation
 
-### [Classification - KNN_NN](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification(KNN_NN)ipynb.ipynb)
+  ### [Classification - KNN_NN](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification(KNN_NN)ipynb.ipynb)
 
 * Load data
 * Split data
