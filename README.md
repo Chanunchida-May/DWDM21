@@ -121,9 +121,35 @@ Group Name
 * project กลุ่ม
 * Group by(pandas)
 
-### [Association Rules](
+### [Association Rules](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
 
 * สรุปจำนวนITEM
 * หาK-itemset
 
+### [Classification - Decision Tree]
+
+* Load Data
+* Train Model
+* define (กำหนด parameters ให้กับ model)
+* train (ฝึกสอนตัวแบบ)
+* plot tree
+* Evaluation
+* Random
+* Advanced Tree
+* HW
+
+### [Classification - Evaluation]
+
+* Load data
+* เเบ่ง DATA 
+* สร้าง Model ทำนาย
+* Evaluation
+
+### [Classification - KNN_NN]
+
+* Load data
+* Split data
+* Train Model
+* Retrain & Evaluation
+* Neural Network
 
