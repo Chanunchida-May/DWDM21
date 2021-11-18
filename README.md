@@ -95,10 +95,38 @@ Group Name
 * Histogram
 * Quiz กลุ่ม III วาดกราฟที่มี marker 
 
- ### [Distance Numpy]
+ ### [Distance Numpy](https://github.com/Chanunchida-May/DWDM21/blob/main/Distance_Numpy.ipynb)
  
  * Numpy Array
  * matrix transpose
  * สร้าง matrix เริ่มต้น (Zeros,ones)
  * สร้าง matrix randoom
+ 
+ ### [Data Preprocessing](
+ 
+ * Meta Data (Data ที่ใช้อธิบาย Data)
+-ชี้ข้อมูลในตาราง , ชี้เเบบธรรมดา ใช้ [ชื่อคอลัมน์][index].iloc[](มองข้อมูลเป็น matrix)
+* Missing Values
+* Handing Missing Value 1(ลบค่า missing)
+* Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+* Handling Missimg Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+* Quiz 3.1 ให้หาว่าการทำ dropna() เเบบเลือก drop เฉพาะ column ที่เราสนใจ (age)ทำให้ข้อมูลหายไปกี่ %
+-Handling Missing Value 2 
+
+-Handling Missing Value 3
+
+-Handling Missing Value 4 
+
+-Handling Missing Value 5 
+
+* การเรียงข้อมูล [PD]
+
+-Outlier
+
+* Quiz 5
+* Quiz กลุ่ม ||| 
+* Pandas'looping(.iterrows)
+* project กลุ่ม
+* Group by(pandas)
+
 
