@@ -138,7 +138,7 @@ Group Name
 * Advanced Tree
 * HW
 
-### [Classification - Evaluation]
+### [Classification - Evaluation](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
 
 * Load data
 * เเบ่ง DATA 
