@@ -24,7 +24,6 @@ Group Name
 บทที่ 1 Introduction
 
 *_*Data Mining*_*
-
 *_*Data Warehouse*_* 
 
 
