@@ -35,7 +35,8 @@ Group Name
  
  -data objects
  
- * บทที่ 3[Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter%203%20DMDW.pdf)
+ * บทที่ 3 [Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter%203%20DMDW.pdf)
+ 
  -การจัดการดาต้าก่อนนำไปประมวลผล
  
  -Data Preprocessing คืออะไร
