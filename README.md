@@ -165,6 +165,6 @@ Group Name
 
 ### [Projectfinal](https://github.com/Chanunchida-May/DWDM21/blob/main/Projectfinal.ipynb)
 
-### [สไลด์Projectfinal] 
+### [สไลด์Projectfinal](https://github.com/Chanunchida-May/DWDM21/blob/main/Final%20Project%20DWDM2021.pdf) 
 
 
