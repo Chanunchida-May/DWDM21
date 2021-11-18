@@ -53,7 +53,9 @@ Group Name
  
  -ต้นไม้ทำนายคำตอบ
  
- * Chapter 10 
+ * Chapter 10 [Clustering](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9Bclustering.pdf)
+ 
+ -หลักการสนใจการทำคลัสเตอร์ริ่ง 3 หลักการ,วิธีการวัด,วิธีการจัดกลุ่มที่เหมาะสม
  
 
 
