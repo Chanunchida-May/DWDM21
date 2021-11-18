@@ -79,8 +79,18 @@ Group Name
       
       วาดรูปต้นไม้/วาดรูปบ้าน
       
-  ### [Data102]
-      - Boxplot
-      -Time Series Plot
-
+  ### [Data102](https://github.com/Chanunchida-May/DWDM21/blob/main/Data102(Chapter2).ipynb)
+      
+  * Boxplot
+      
+  * Time Series Plot
+  
+  ###[Data Visualization]
+*Visualization
+*Boxplot (อยู่ใน data preprocessing)
+*Scatter plot
+*plot
+*Bar chart
+*Histogram
+*Quiz กลุ่ม III วาดกราฟที่มี marker 
 
