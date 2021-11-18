@@ -22,8 +22,8 @@ Group Name
 ## *บททฤษฎีเนื้อหา*
 
 บทที่ 1 Introduction
-
 *_*Data Mining*_*
+
 *_*Data Warehouse*_* 
 
 
