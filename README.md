@@ -59,7 +59,7 @@ Group Name
  
  ### * COLAB 
  
- *#* [Data101](https://github.com/Chanunchida-May/DWDM21/blob/main/Data101(Chapter2).ipynb)
+ #### [Data101](https://github.com/Chanunchida-May/DWDM21/blob/main/Data101(Chapter2).ipynb)
  
  * Basic Python
      -Casting int(),float(),str()
