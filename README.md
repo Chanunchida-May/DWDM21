@@ -27,5 +27,11 @@ Group Name
 
 * Data Warehouse
 
-* บทที่ 2 [Getting to know Your Data]
+* บทที่ 2 [Getting to know Your Data](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%882.1.pdf)
+
+* ประเภทดาต้า,คุณสมบัติ,ชนิดของข้อมูล,การเรียกดาต้า
+* Numeric
+* data objects
+
+
 
