@@ -85,7 +85,7 @@ Group Name
       
   * Time Series Plot
   
-  ###[Data Visualization]
+  ### [Data Visualization](https://github.com/Chanunchida-May/DWDM21/blob/main/Data_Visualization.ipynb)
   
 * Visualization
 * Boxplot (อยู่ใน data preprocessing)
@@ -94,4 +94,11 @@ Group Name
 * Bar chart
 * Histogram
 * Quiz กลุ่ม III วาดกราฟที่มี marker 
+
+ ### [Distance Numpy]
+ 
+ * Numpy Array
+ * matrix transpose
+ * สร้าง matrix เริ่มต้น (Zeros,ones)
+ * สร้าง matrix randoom
 
