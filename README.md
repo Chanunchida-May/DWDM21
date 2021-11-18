@@ -153,7 +153,7 @@ Group Name
 * Retrain & Evaluation
 * Neural Network
 
-### [Clutering](
+### [Clutering](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap8_Clustering.ipynb)
 
 * K-Means
 * Clustering
