@@ -59,7 +59,7 @@ Group Name
  
  ### * COLAB 
  
- ### [Data101](https://github.com/Chanunchida-May/DWDM21/blob/main/Data101(Chapter2).ipynb)
+ ### บทที่1 [Data101](https://github.com/Chanunchida-May/DWDM21/blob/main/Data101(Chapter2).ipynb)
  
  * Basic Python
      -Casting int(),float(),str()
@@ -85,7 +85,7 @@ Group Name
       
   * Time Series Plot
   
-  ### [Data Visualization](https://github.com/Chanunchida-May/DWDM21/blob/main/Data_Visualization.ipynb)
+  ### บทที่2 [Data Visualization](https://github.com/Chanunchida-May/DWDM21/blob/main/Data_Visualization.ipynb)
   
 * Visualization
 * Boxplot (อยู่ใน data preprocessing)
@@ -102,7 +102,7 @@ Group Name
  * สร้าง matrix เริ่มต้น (Zeros,ones)
  * สร้าง matrix randoom
  
- ### [Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Data_Preprocessing_(chapter3).ipynb)
+ ### บทที่3-4 [Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Data_Preprocessing_(chapter3).ipynb)
  
  * Meta Data (Data ที่ใช้อธิบาย Data)
 -ชี้ข้อมูลในตาราง , ชี้เเบบธรรมดา 
@@ -121,12 +121,12 @@ Group Name
 * project กลุ่ม
 * Group by(pandas)
 
-### [Association Rules](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+### บทที่5 [Association Rules](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
 
 * สรุปจำนวนITEM
 * หาK-itemset
 
-### [Classification - Decision Tree](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+### บทที่6 [Classification - Decision Tree](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
 
 * Load Data
 * Train Model
@@ -138,7 +138,7 @@ Group Name
 * Advanced Tree
 * HW
 
-### [Classification - Evaluation](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+ ### [Classification - Evaluation](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
 
 * Load data
 * เเบ่ง DATA 
@@ -153,7 +153,7 @@ Group Name
 * Retrain & Evaluation
 * Neural Network
 
-### [Clutering](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap8_Clustering.ipynb)
+### บทที่7 [Clutering](https://github.com/Chanunchida-May/DWDM21/blob/main/Chap8_Clustering.ipynb)
 
 * K-Means
 * Clustering
