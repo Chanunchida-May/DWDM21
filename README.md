@@ -21,9 +21,10 @@ Group Name
 # สารบัญ
 ## *บททฤษฎีเนื้อหา*
 
-บทที่ 1 Introduction
-*_*Data Mining*_*
+บทที่ 1 Introduction(
 
-*_*Data Warehouse*_* 
+Data Mining
+
+Data Warehouse
 
 
