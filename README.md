@@ -58,6 +58,25 @@ Group Name
  -หลักการสนใจการทำคลัสเตอร์ริ่ง 3 หลักการ,วิธีการวัด,วิธีการจัดกลุ่มที่เหมาะสม
  
  ### * COLAB 
-
+ 
+ * [Data101](https://github.com/Chanunchida-May/DWDM21/blob/main/Data101(Chapter2).ipynb)
+ 
+ * Basic Python
+     -Casting int(),float(),str()
+     
+ * Data Structure
+      -String คือ list ของตัวหนังสือ
+      
+      -วิธีสร้าง list ว่าง
+      
+      -เติมค่าลงไปใน list (.append())
+      
+      -list slicing,list + list,format Srting,Loop,Nested loop,Condition (if statement),
+  * Quiz 1 หา Min
+  * HW ตัดเกรด
+  * Quiz4 ส่ง11.05(27/07/2021)
+      สร้างฟังก์ชั่น
+      
+      วาดรูปต้นไม้/วาดรูปบ้าน
 
 
