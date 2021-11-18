@@ -145,11 +145,26 @@ Group Name
 * สร้าง Model ทำนาย
 * Evaluation
 
-### [Classification - KNN_NN]
+### [Classification - KNN_NN](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification(KNN_NN)ipynb.ipynb)
 
 * Load data
 * Split data
 * Train Model
 * Retrain & Evaluation
 * Neural Network
+
+### [Clutering](
+
+* K-Means
+* Clustering
+* Example Application(Color Quantization)
+* นับจำนวนสี
+* จัดกลุ่มสีใช้ Centroid เป็นตัวแทนสี
+
+### [Miniexam]
+
+### [Projectfinal]
+
+*สไลด์Projectfinal 
+
 
