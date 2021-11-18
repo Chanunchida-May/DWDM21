@@ -34,6 +34,17 @@ Group Name
  -Numeric
  
  -data objects
+ 
+ * บทที่ 3[Data Preprocessing]
+ -การจัดการดาต้าก่อนนำไปประมวลผล
+ 
+ -Data Preprocessing คืออะไร
+ 
+ -Why Preprocess the Data? 
+ 
+ -Data Cleaning
+ 
+ 
 
 
 
