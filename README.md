@@ -21,13 +21,13 @@ Group Name
 # สารบัญ
 ## *บททฤษฎีเนื้อหา*
 
-* บทที่ 1 [Introduction](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%201.pdf)
+* Chapter 1 [Introduction](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%201.pdf)
 
  -Data Mining
 
  -Data Warehouse
 
-* บทที่ 2 [Getting to know Your Data](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%882.1.pdf)
+* Chapter 2 [Getting to know Your Data](https://github.com/Chanunchida-May/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%882.1.pdf)
 
  -ประเภทดาต้า,คุณสมบัติ,ชนิดของข้อมูล,การเรียกดาต้า
  
@@ -35,7 +35,7 @@ Group Name
  
  -data objects
  
- * บทที่ 3 [Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter%203%20DMDW.pdf)
+ * Chapter 3 [Data Preprocessing](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter%203%20DMDW.pdf)
  
  -การจัดการดาต้าก่อนนำไปประมวลผล
  
@@ -44,6 +44,14 @@ Group Name
  -Why Preprocess the Data? 
  
  -Data Cleaning
+ 
+ * Chapter 8  [Classification:Basic Concepts](
+ 
+ -การทำนาย
+ 
+ -การสร้างโมเดลเเบบมีผู้สอนเเละไม่มีผู้สอน
+ 
+ -ต้นไม้นำนายคำตอบ
  
  
 
