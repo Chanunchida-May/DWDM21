@@ -126,7 +126,7 @@ Group Name
 * สรุปจำนวนITEM
 * หาK-itemset
 
-### [Classification - Decision Tree]
+### [Classification - Decision Tree](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
 
 * Load Data
 * Train Model
