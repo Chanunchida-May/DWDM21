@@ -78,5 +78,9 @@ Group Name
       สร้างฟังก์ชั่น
       
       วาดรูปต้นไม้/วาดรูปบ้าน
+      
+  ### [Data102]
+      - Boxplot
+      -Time Series Plot
 
 
