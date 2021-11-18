@@ -45,14 +45,15 @@ Group Name
  
  -Data Cleaning
  
- * Chapter 8  [Classification:Basic Concepts](
+ * Chapter 8  [Classification:Basic Concepts](https://github.com/Chanunchida-May/DWDM21/blob/main/Chapter%208%20(1)%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B.pdf)
  
  -การทำนาย
  
  -การสร้างโมเดลเเบบมีผู้สอนเเละไม่มีผู้สอน
  
- -ต้นไม้นำนายคำตอบ
+ -ต้นไม้ทำนายคำตอบ
  
+ * Chapter 10 
  
 
 
