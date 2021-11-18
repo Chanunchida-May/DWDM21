@@ -86,11 +86,12 @@ Group Name
   * Time Series Plot
   
   ###[Data Visualization]
-*Visualization
-*Boxplot (อยู่ใน data preprocessing)
-*Scatter plot
-*plot
-*Bar chart
-*Histogram
-*Quiz กลุ่ม III วาดกราฟที่มี marker 
+  
+* Visualization
+* Boxplot (อยู่ใน data preprocessing)
+* Scatter plot
+* plot
+* Bar chart
+* Histogram
+* Quiz กลุ่ม III วาดกราฟที่มี marker 
 
